@@ -1,0 +1,33 @@
+region,cases_status,cases_min,cases_max,rt_avg
+AGUASCALIENTES,Incierto,14,41,1
+BAJA CALIFORNIA,Incierto,117,178,1
+BAJA CALIFORNIA SUR,Incierto,4,19,1
+CAMPECHE,Probablemente aumentando,11,35,1
+CHIAPAS,Aumentando,74,121,1
+CHIHUAHUA,Probablemente aumentando,37,73,1
+CIUDAD DE MEXICO,Probablemente aumentando,808,958,1
+COAHUILA DE ZARAGOZA,Aumentando,24,56,1.5
+COLIMA,Incierto,2,15,1.5
+DURANGO,Probablemente aumentando,7,27,1.5
+GUANAJUATO,Probablemente aumentando,45,85,1
+GUERRERO,Aumentando,69,117,1.5
+HIDALGO,Aumentando,61,104,1
+JALISCO,Probablemente aumentando,41,80,1
+MEXICO,Aumentando,663,795,1.5
+MICHOACAN DE OCAMPO,Probablemente aumentando,58,107,1
+MORELOS,Incierto,15,42,1
+NAYARIT,Probablemente aumentando,10,32,1
+NUEVO LEON,Incierto,32,66,1
+OAXACA,Probablemente disminuyendo,34,72,1
+PUEBLA,Aumentando,106,162,1.5
+QUERETARO,Incierto,21,49,1
+QUINTANA ROO,Incierto,29,61,1
+SAN LUIS POTOSI,Probablemente aumentando,27,58,1
+SINALOA,Aumentando,97,149,1
+SONORA,Probablemente aumentando,65,111,1
+TABASCO,Probablemente aumentando,102,159,1
+TAMAULIPAS,Probablemente aumentando,34,70,1
+TLAXCALA,Aumentando,39,77,1.5
+VERACRUZ DE IGNACIO DE LA LLAVE,Aumentando,160,226,1.5
+YUCATAN,Incierto,33,68,1
+ZACATECAS,Incierto,2,15,1.5
